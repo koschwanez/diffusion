@@ -1,0 +1,3 @@
+### diffusion.py
+
+This numerically solves the diffusion equation in 1D on a linear or radial grid. It uses the Crank-Nicolson method. See the code comments for details of the solver. The unittest module has examples of setting up the grid and starting the solver.
